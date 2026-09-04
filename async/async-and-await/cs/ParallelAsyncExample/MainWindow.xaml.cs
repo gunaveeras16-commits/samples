@@ -8,6 +8,7 @@ using System.Windows;
 using System.Windows.Threading;
 
 namespace ParallelAsyncExample
+    // Git branch practice - my first change
 {
     public partial class MainWindow : Window
     {
