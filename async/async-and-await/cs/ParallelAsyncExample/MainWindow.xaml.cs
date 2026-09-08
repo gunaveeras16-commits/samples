@@ -9,6 +9,7 @@ using System.Windows.Threading;
 
 namespace ParallelAsyncExample
     // Git branch practice - my first change
+    // PR practice - change created on feature branch
 {
     public partial class MainWindow : Window
     {
