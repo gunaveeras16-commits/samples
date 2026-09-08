@@ -8,6 +8,8 @@ using System.Windows;
 using System.Windows.Threading;
 
 namespace ParallelAsyncExample
+    // Git branch practice - my first change
+    // PR practice - demonstrates updating an existing pull request after review feedback 
 {
     public partial class MainWindow : Window
     {
