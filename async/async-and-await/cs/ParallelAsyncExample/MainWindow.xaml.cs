@@ -11,6 +11,7 @@ namespace ParallelAsyncExample
     // FETCH/PULL PRACTICE - change made directly on Github
     // Git branch practice - my first change
     // PR practice - demonstrates updating an existing pull request after review feedback 
+    // TEAMMATE - added feature B remotely
 {
     public partial class MainWindow : Window
     {
